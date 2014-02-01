@@ -1,0 +1,29 @@
+* {
+margin:0;
+padding:0;
+}
+
+body {
+font-family:georgia;
+font-size:20px;
+line-height:1.5;
+}
+
+header {
+background:url(imgs/MickJagger1.jpg);
+}
+
+header h1 {
+height:600px;
+line-height:450px;
+color:#FFF;
+font-family:helvetica, arial, sans-serif;
+font-size:144px;
+text-align:center;
+text-shadow:0 0 10px #000;
+}
+
+section,aside {
+width:65%;
+margin:2em auto;
+}
